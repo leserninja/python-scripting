@@ -1,0 +1,105 @@
+[
+    {
+        "question": "What chemical element has the symbol Au? ",
+        "choices": [
+            "Silver",
+            "Gold",
+            "Copper",
+            "Iron"
+        ],
+        "answer": 1
+    },
+    {
+        "question":"What is the largest planet in our solar system?",
+        "choices": [
+            "Saturn",
+            "Mars",
+            "Jupiter",
+            "Neptune"
+        ],
+        "answer": 2
+    },
+        {
+        "question":"In what year did the Titanic sink on its maiden voyage?",
+        "choices": [
+            "1905",
+            "1912",
+            "1920",
+            "1898"
+        ],
+        "answer": 1
+    },
+        {
+        "question":"How many keys does a standard full-size piano have?",
+        "choices": [
+            "76",
+            "82",
+            "88",
+            "92"
+        ],
+        "answer": 2
+    },
+        {
+        "question":"Which country has the most islands in the world?",
+        "choices": [
+            "Sweden",
+            "Canada",
+            "Indonesia",
+            "Norway"
+        ],
+        "answer": 0
+    },
+        {
+        "question":"What gas do plants absorb from the atmosphere during photosynthesis?",
+        "choices": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Hydrogen"
+        ],
+        "answer": 2
+    },
+        {
+        "question":"What is traditionally recognized as the longest river in the world?",
+        "choices": [
+            "The Amazon",
+            "The Nile",
+            "The Yangtze",
+            "The Mississippi"
+        ],
+        "answer": 1
+    },
+        {
+        "question":"What is the name of the fictional wizarding school that Harry Potter attends?",
+        "choices": [
+            "Beauxbatons",
+            "Durmstrang",
+            "Hogwarts",
+            "Ilvermorny"
+        ],
+        "answer": 2
+    },
+        {
+        "question":"What is the hardest naturally occurring substance on Earth?",
+        "choices": [
+            "Quartz",
+            "Granite",
+            "Diamond",
+            "Titanium"
+        ],
+        "answer": 2
+    },
+        {
+        "question":"How many hearts does an octopus have?",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2
+    }
+
+
+
+]
